@@ -1,0 +1,23 @@
+body {
+  background-color: #FBF6F8;
+}
+
+h1 {
+  font-family: 'Archivo Black', sans-serif;
+  color: #4b494a;
+}
+
+p {
+  font-family: 'Archivo', sans-serif;
+  color: #4B494A;
+}
+
+.center {
+  margin: auto;
+  width: 60%;
+  border: 5px solid #EED2DD;
+  padding: 10px;
+  text-align: center;
+  /*box-shadow: 5px 10px #EED2DD;*/
+  outline: 3px solid #4b494a
+}
